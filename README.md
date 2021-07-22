@@ -7,7 +7,9 @@ Nicolas is a skilled software developer, he has a high capacity for adaptability
 - 👯 I’m looking to collaborate on projects with a social projection.
 ### Get in touch
 
-<a href"https://www.google.com/"><img src="https://image.similarpng.com/very-thumbnail/2020/04/Linkedin-logo-blue-purple-glowing-social-network-png.png" align="left" width="100" height="100" alt="cherry72" border="0"></a>
+<a href="https://twitter.com/EinNicolas"><img src="https://i.imgur.com/ioDEnwO.png" align="left" width="100" height="100" border="0" alt="Twitter logo"></a>
+<a href="https://www.linkedin.com/in/nicolas-moran/"><img src="https://i.imgur.com/hfTlAuY.png" align="left" width="90" height="90" border="0" alt="LikedIn logo"></a>
+
 
 
 
